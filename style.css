@@ -9,3 +9,26 @@ h1,h2,h3,p,a,li {
     color: black;
     text-shadow: 1px 1px 3px black;
 }
+
+.sticker{
+    position: absolute;
+    width: 80px;
+    z-index: 10;
+}
+.s1{
+    top: 20px;
+    right: 20px;
+    transform: rotate(15deg);
+}
+.s2{
+    top: 50px;
+    left: 50px;
+    transform: rotate(-10deg);
+    width: 100px;
+}
+.s3{
+    bottom: 50px;
+    right: 50px;
+    transform: rotate(5deg);
+    width: 120px;
+}
