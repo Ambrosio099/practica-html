@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    background-image: url('https://www.transparenttextures.com/patterns/black-thread-light.png');
+    background-repeat: repeat;
+    color: black;
+}
+
+h1,h2,h3,p,a,li {
+    color: black;
+    text-shadow: 1px 1px 3px black;
+}
